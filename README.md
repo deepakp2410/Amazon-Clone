@@ -37,6 +37,10 @@ This is a basic **Amazon Clone** webpage created using **HTML** and **CSS**, rep
 3. Scroll through the **Shop Section** to see various product categories.
 4. Check the Footer Section for resources, links, and company information.
 
+## Showcasing
+
+Excited to showcase the latest project A clone of famous E-Commerce Website - Amazon: [LinkedIn](https://www.linkedin.com/posts/deepak-patil-23772b252_webdevelopment-html-css-activity-7200015364141821953-DcwU/?utm_source=share&utm_medium=member_android)
+
 ## File Structure 
 
 ``` 
